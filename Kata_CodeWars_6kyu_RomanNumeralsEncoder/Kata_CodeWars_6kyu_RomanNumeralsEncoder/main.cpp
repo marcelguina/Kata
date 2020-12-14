@@ -5,6 +5,16 @@
 //  Created by Marcel on 14/12/2020.
 //
 
+/*
+          (__)
+          (oo)
+   /-------\/
+  / |     ||
+  ~~~~~~~~~~~~~~
+ Cow in water
+ */
+
+
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
